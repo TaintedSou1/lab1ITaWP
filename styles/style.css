@@ -1,0 +1,25 @@
+h1{
+	text-align: center;
+	color: red;
+}
+img{
+	width:500px;
+	height: 70px;
+	padding-left: 500px;
+	}
+p{
+	text-align: right;
+	color: blue;
+	font-style: italic;        
+    font-size: larger; 
+}
+h4{
+	text-align: right;
+	color: blue;
+	font-style: italic;       
+    font-size: larger; 
+}
+table{
+	align-self: right;
+	border: 3;
+}
